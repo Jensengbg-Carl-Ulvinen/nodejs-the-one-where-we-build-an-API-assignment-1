@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "3b1a5ca4-55a3-4dc8-9497-1acb026ee666",
+      "name": "Skateboard",
+      "price": "1000.00",
+      "imgurl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "c91b90af-800e-4ca0-99d4-af9ef6d6a3f7",
+      "name": "Wheels",
+      "price": "200.00",
+      "imgurl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "079c955a-18e2-4624-9556-85262377125a",
+      "name": "Helmet",
+      "price": "400.00",
+      "imgurl": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "0fbeb62c-0e01-4aa4-9612-8964c819c0a3",
+      "name": "Kneepads",
+      "price": "300.00",
+      "imgurl": "https://placeimg.com/640/480/any"
+    }
+  ],
+  "cart": []
+}
